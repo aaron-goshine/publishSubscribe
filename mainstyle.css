@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+
+li {
+	list-style:none;
+	margin-bottom:10px;
+}
+#console {
+	width:500px;
+	min-height:200px;
+	background-color:#CCC;
+}
+a {
+	width:100px;
+	min-height:40px;
+	background-color:#CCC;
+	padding:5px;
+	color:#333;
+}
+#field {
+	width:490px;
+	padding:5px;
+}

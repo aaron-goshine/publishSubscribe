@@ -1,0 +1,1 @@
+javascript publish/subsribe with wildcards
